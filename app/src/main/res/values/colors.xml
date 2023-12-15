@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#2196F3</color>
+    <color name="relative">#055FA6</color>
+    <color name="track">#FFEB3B</color>
+    <color name="green">#7EF670</color>
+
+    <color name="timesup">#E43155</color>
+</resources>
